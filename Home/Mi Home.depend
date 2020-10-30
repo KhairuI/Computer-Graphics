@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600967243 source:h:\university lecture\11th semester\computer graphics lab\code\mi home\house.c
+	<GL/gl.h>
+	<GL/glut.h>
+
