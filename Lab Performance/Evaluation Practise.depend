@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604128892 source:h:\university lecture\11th semester\computer graphics lab\code\evaluation practise\practise.c
+	<GL/gl.h>
+	<GL/glut.h>
+
